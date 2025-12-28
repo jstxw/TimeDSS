@@ -1,4 +1,4 @@
-# TimeDSS — “Lock In” VBA Time Tracker (Excel)
+# TimeDSS — VBA Excel Time Tracker (MSE 100 Final Project)
 
 A VBA-powered Excel dashboard for planning your week, tracking daily progress, and generating “lock-in” recommendations (study + work) based on the tasks you’ve entered.
 
